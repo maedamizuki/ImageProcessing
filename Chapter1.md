@@ -45,4 +45,9 @@
 RGBとYIQとの対応式。  
 ``` math  
 (1.1)式
-```
+```  
+* HSI表色系  
+  * 色相(hue)：H  
+  * 彩度(saturation)：S  
+  * 明度(intensity)：I  
+**HSI変換** ： 
