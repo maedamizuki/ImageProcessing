@@ -33,6 +33,7 @@
 ## 表色系  
 * RGB表色系  
   *  CIE-RGB表色系  
+
 | 色 | 波長(nm) |  
 | --------- | -------- |  
 |  赤 | 700  |  
@@ -41,16 +42,7 @@
 
 * YIQ表色系  
 カラーテレビに採用された表色系のこと。  
+RGBとYIQとの対応式。  
 ``` math  
-\left[
-\begin{matrix}
-Y \\
-I \\
-Q
-\end{matrix}
-\right]
-= \left[
-\begin{matrix}
-
-]
+(1.1)式
 ```
